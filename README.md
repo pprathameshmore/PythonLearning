@@ -1,1 +1,1 @@
-# learning Python Basics from Simple Programes
+# Learning Python basics with simple programes
