@@ -13,3 +13,5 @@ print(max(str))
 print(str.replace("love","Hate"))
     
 print(str.split())
+
+print(str.startswith("I"))
