@@ -15,12 +15,12 @@ outside have a global scope.
 
 total = 0
 
-def additionTwoNumbers(num1, num2):
+def additionTwoNumbers(num1, num2, num3):
     
-    total = num1 + num2
+    total = num1 + num2 + num3
     print("Total inside in Function : ", total)
 
 
-additionTwoNumbers(10,20)
+additionTwoNumbers(10,20,30)
 
 print("Total outside of function : ",total)
